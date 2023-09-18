@@ -5,11 +5,11 @@ WarP is a powerful tool that allows you to send unlimited data through the 1.1.1
 ## Features
 
 - Send unlimited data through 1.1.1.1 VPN
-- [List any other notable features]
+```python
+git clone https://github.com/Peaky-XD/WarP
 
-## Installation
+cd WarP
 
-To use WarP, follow these steps:
+python warp.py
 
-```bash
-git clone https://github.com/Peaky-XD/WarP 
+```
